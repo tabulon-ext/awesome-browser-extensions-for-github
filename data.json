@@ -24,7 +24,7 @@
       "firefox": "https://addons.mozilla.org/en-US/firefox/addon/github-history/"
     },
     "description": "Quickly browse the history of a file from any git repository.",
-    "stars": 12182,
+    "stars": 12181,
     "installCount": 6270,
     "lastUpdate": "6 May 2020"
   },
@@ -114,7 +114,7 @@
       "edge": "https://microsoftedge.microsoft.com/addons/detail/lbbanfffjfmfdahnfbklminikafhcjjb"
     },
     "description": "OctoLinker is a Browser Extension which links NPM, bower, Composer & Duo dependencies to their GitHub repository page. It also solve require() statements in a .js, .jsx, .coffee or .md file.",
-    "stars": 4455,
+    "stars": 4454,
     "installCount": 28764,
     "lastUpdate": "19 Aug 2020"
   },
@@ -307,8 +307,8 @@
       "opera": "https://addons.opera.com/extensions/details/octotree/"
     },
     "description": "Useful for developers who frequently read source in GitHub and do not want to download or checkout too many repositories.",
-    "stars": 20430,
-    "installCount": 328062,
+    "stars": 20429,
+    "installCount": 328063,
     "lastUpdate": "21 Jul 2020"
   },
   {
@@ -414,7 +414,7 @@
     },
     "description": "Neat hovercards for GitHub.",
     "stars": 1485,
-    "installCount": 18406,
+    "installCount": 18407,
     "lastUpdate": "27 Mar 2019"
   },
   {
@@ -708,7 +708,7 @@
       "firefox": "https://docs.sourcegraph.com/integration/browser_extension"
     },
     "description": "The Sourcegraph browser extension gives GitHub IDE-like powers when you're viewing code, pull requests, and diffs:\n\n1. Go to definition\n2. Find references\n3. Powerful code search with regexp matching, diff searches, and other filters\n4. Hover tooltips\n5. File tree navigation",
-    "stars": 3857,
+    "stars": 3859,
     "installCount": 100000,
     "lastUpdate": "30 Jul 2020"
   }
